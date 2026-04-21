@@ -1,7 +1,7 @@
 import os
 
 bash_path = "bash"
-minishell_path = os.path.abspath("../minishell")
+minishell_path = os.path.abspath("../../minishell-test")
 
 test_dir = "test_cwd"
 bash_dir = os.path.join(test_dir, "bash")
